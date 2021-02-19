@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "392305382704",
+    "firebase_url": "https://blog-8877.firebaseio.com",
+    "project_id": "blog-8877",
+    "storage_bucket": "blog-8877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392305382704:android:0ced011f9e77e9c9bae4f5",
+        "android_client_info": {
+          "package_name": "com.hopea.stickynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392305382704-9hlnbbdd61g4c7loqc4748oah0husfll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA27Xa8IC9CXJub-cFiEAL6DDLtih4Ri6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392305382704-9hlnbbdd61g4c7loqc4748oah0husfll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392305382704-4t0t0so4h8piaonb205djnkc12rsasll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hopea.stickynotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
